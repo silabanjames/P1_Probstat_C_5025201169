@@ -220,7 +220,7 @@ hist(rexp(10000,5))
 ```
 Output:
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/78299006/162626046-81a5e5e9-e904-437e-a3b7-17a4c8947aa8.png)
 
 
 **c. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3**
