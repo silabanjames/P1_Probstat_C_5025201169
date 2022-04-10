@@ -189,11 +189,39 @@ Output:
 ```
 
 **b. Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random**
+10 bilangan randaom
 ```
 hist(rexp(10,5))
 ```
 Output :
+
+![image](https://user-images.githubusercontent.com/78299006/162625951-feb8cd0d-882d-4a80-921d-fd47bae04f13.png)
+
+100 bilangan random
+```
+hist(rexp(100,5))
+```
+Ouput:
+
+![image](https://user-images.githubusercontent.com/78299006/162625970-4ed5b1dc-d5cb-49e8-94be-76ca98530417.png)
+
+1000 bilangan random
+```
+hist(rexp(1000,5))
+```
+Output:
+
+![image](https://user-images.githubusercontent.com/78299006/162625988-ce597253-2826-4679-be78-09822243a248.png)
+
+
+10000 bilangan random
+```
+hist(rexp(10000,5))
+```
+Output:
+
 ![Uploading image.png…]()
+
 
 **c. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3**
 Rataan sebesar 3 (lambda)
